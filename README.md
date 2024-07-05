@@ -51,3 +51,13 @@ https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115500
 
 ## 长期目标
 TBD
+
+
+## 对实习生的要求
+1. 熟悉至少一种脚本语言（Python，Perl，Ruby，Shell等等）
+2. 初步了解编译器、C库之间的关系；初步了解动态链接、静态链接的概念
+3. 初步了解ELF文件格式
+
+参考书目：《程序员的自我修养--链接、装载与库》
+          《Computer Systems: A Programmer's Perspective/深入理解计算机系统（CSAPP）》
+	  《The GNU C Library Reference Manual》
